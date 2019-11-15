@@ -1,6 +1,6 @@
-# Archive, Diary and Journal of 2019 Bertelsmann Technology Scholarship 
+# Archive, Diary and Journal of 2019 Bertelsmann Technology Scholarship Program
 
- #50000chances
+ Learning in-demand Cloud Computing skills 
  
  #UdacityTechScholars 
  
@@ -14,3 +14,9 @@ ___
 
 
 Cohort begins Nov‍emb‍er 2‍0th, 2‍01‍9 (the initial 3.5-month foundational course in Cloud track)
+
+Introduction to Cloud DevOps:
+
+   -Learning cloud computing fundamentals and the basics of the command line interface of a Linux server. 
+   -Geting hands-on experience deploying infrastructure using code, and an introduction to version control with Git & GitHub.
+   -Exploring tools and services offered by Amazon Web Services through interactive hands-on exercises.
