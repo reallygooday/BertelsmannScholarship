@@ -1,6 +1,10 @@
-# Journal of 2019 Bertelsmann Technology Scholarship 
+# Archive, Diary and Journal of 2019 Bertelsmann Technology Scholarship 
 
- #50000chances #UdacityTechScholars #PoweredByBertelsmann
+ #50000chances
+ 
+ #UdacityTechScholars 
+ 
+ #PoweredByBertelsmann
 
 <img align="right" width="200" height="200" src="/image/Bertelsmann.jpg">
 
