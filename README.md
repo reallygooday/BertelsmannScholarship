@@ -1,6 +1,9 @@
 
 # Journal of 2019 Bertelsmann Technology Scholarship 
-# Archive and Diary of Cloud DevOps Track
+
+# ***Archive and Diary of Cloud DevOps Track***
+
+***November 15, Friday***
 
  Learning in-demand Cloud Computing skills 
  
@@ -19,14 +22,14 @@ Cohort begins Nov‍emb‍er 2‍0th, 2‍01‍9 (the initial 3.5-month foundati
 
 The Initial Challenge Course "Introduction to Cloud DevOps":
 
-   - Learning cloud computing fundamentals and the basics of the command line interface of a Linux server;
-   - Getting hands-on experience deploying infrastructure using code, and an introduction to version control with Git & GitHub;
-   - Exploring tools and services offered by Amazon Web Services through interactive hands-on exercises.
+   -[x] Learning cloud computing fundamentals and the basics of the command line interface of a Linux server;
+   -[x] Getting hands-on experience deploying infrastructure using code, and an introduction to version control with Git & GitHub;
+   -[x] Exploring tools and services offered by Amazon Web Services through interactive hands-on exercises.
    
 The Part 2 "Cloud DevOps":  
 
-   - Learning to operationalize infrastructure at scale and deliver applications and services at high velocity;
-   - Learning to design and deploy infrastructure as code, build and monitor CI/CD pipelines for different deployment strategies, and deploy scaleable microservices using Kubernetes. 
+   -[x] Learning to operationalize infrastructure at scale and deliver applications and services at high velocity;
+   -[x] Learning to design and deploy infrastructure as code, build and monitor CI/CD pipelines for different deployment strategies, and deploy scaleable microservices using Kubernetes. 
   
 
    
