@@ -1,5 +1,6 @@
 
 # Journal of 2019 Bertelsmann Technology Scholarship 
+# Archive and Diary of Cloud DevOps Track
 
  Learning in-demand Cloud Computing skills 
  
@@ -24,8 +25,8 @@ The Initial Challenge Course "Introduction to Cloud DevOps":
    
 The Part 2 "Cloud DevOps":  
 
----- Learning to operationalize infrastructure at scale and deliver applications and services at high velocity;
----- Learning to design and deploy infrastructure as code, build and monitor CI/CD pipelines for different deployment strategies, and deploy scaleable microservices using Kubernetes. 
+   - Learning to operationalize infrastructure at scale and deliver applications and services at high velocity;
+   - Learning to design and deploy infrastructure as code, build and monitor CI/CD pipelines for different deployment strategies, and deploy scaleable microservices using Kubernetes. 
   
 
    
