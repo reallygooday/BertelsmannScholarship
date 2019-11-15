@@ -1,8 +1,10 @@
-# Bertelsmann Scholarship Recipient 
+# Journal of 2019 Bertelsmann Technology Scholarship 
 
- #50000chances #UdacityTechScholars #PoweredByBertelsmann.
+ #50000chances #UdacityTechScholars #PoweredByBertelsmann
 
-<img align="right" width="400" height="200" src="/image/Bertelsmann.jpg">
+<img align="right" width="200" height="200" src="/image/Bertelsmann.jpg">
+
+
 # ** I'm extremely lucky and honored to have received an acceptance into the Udacity Technology Scholarship powered by Bertelsmann. I'm very thankful for the opportunity I have been given.** 
 
 
