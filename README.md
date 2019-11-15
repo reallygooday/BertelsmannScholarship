@@ -1,7 +1,7 @@
 
 # Journal of 2019 Bertelsmann Technology Scholarship 
 
-# ***Archive and Diary of Cloud DevOps Track***
+### ***Archive and Diary of Cloud DevOps Track***
 
 ***November 15, Friday***
 
