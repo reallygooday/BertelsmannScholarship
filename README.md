@@ -1,4 +1,4 @@
-### SMARTER LEARNING                                                         
+### SMARTER LEARNING CLOUD COMPUTING SKILLS                                              
 
 
 
@@ -14,7 +14,6 @@
 
 
 
- Learning in-demand Cloud Computing skills 
  
  #UdacityTechScholars                                      #PoweredByBertelsmann
 
