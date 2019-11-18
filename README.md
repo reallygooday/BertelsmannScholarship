@@ -37,11 +37,11 @@ ______
  
 
 
-
+______
 ______
 
-- I'm extremely lucky and honored to have received an acceptance into the Udacity Technology Scholarship powered by Bertelsmann. I'm very thankful for the opportunity I have been given.
-
+      - I'm extremely lucky and honored to have received an acceptance into the Udacity Technology Scholarship powered by Bertelsmann. I'm very thankful for the opportunity I have been given.
+______
 ______
 
 Cohort begins Nov‍emb‍er 2‍0th, 2‍01‍9 (the initial 3.5-month foundational course in Cloud track)
