@@ -3,7 +3,7 @@
 
 ### ***Archive and Diary of Cloud DevOps Track***
 
-***November 15, Friday***
+***Date of Acceptance: November 15, Friday 2019***
 
  Learning in-demand Cloud Computing skills 
  
