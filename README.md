@@ -33,7 +33,19 @@ __________
 ***November 18, Monday 2019***
 
 
+
+
 ______  
+   
+   *RANDOM FUN FACTS*
+   
+  [x]. The unicorn is the national animal of Scotland.[2]
+  
+  [x]. Bees sometimes sting other bees.[2]
+  
+  [x]. Kids ask 300 questions a day.[2]
+  
+  ______  
    
    *BIBLIOGRAPHY*
    
@@ -45,4 +57,7 @@ The list below summarizes the websites used in this learning journey.
              https://www.udacity.com/bertelsmann-tech-scholarships
              
              
-[2]. 
+[2]. 150 Random Facts So Interesting You'll Say, "OMG!"
+
+
+             https://bestlifeonline.com/random-fun-facts/
