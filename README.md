@@ -2,7 +2,7 @@
 <img align="left" width="400" height="200" src="/image/title.png">
 
 
-### SMARTER LEARNING CLOUD COMPUTING SKILLS                                              
+###  CLOUD COMPUTING                                              
 
 
 
@@ -12,7 +12,7 @@
                                                                               
                                                                               
                                                              
-# Digital Journal of 2019 Bertelsmann Technology Scholarship 
+# Digital Journal 
 
 ### ***Archive and Diary of Cloud DevOps Track***
 
