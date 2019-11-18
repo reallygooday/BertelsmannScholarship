@@ -1,3 +1,7 @@
+
+<img align="left" width="200" height="200" src="/image/title.png">
+
+
 ### SMARTER LEARNING CLOUD COMPUTING SKILLS                                              
 
 
@@ -27,7 +31,7 @@ ___
 Cohort begins Nov‍emb‍er 2‍0th, 2‍01‍9 (the initial 3.5-month foundational course in Cloud track)
 
 
-Bertelsmann is one of the largest mass media companies based in Germany. Worldwide the company has almost 350 locations. It was founded as a publishing house by Carl Bertelsmann in 1835. 
+Bertelsmann is the German media and services multinational corporation Worldwide the company has almost 350 locations. It was founded as a publishing house by Carl Bertelsmann in 1835. 
 
 
 The Initial Challenge Course "Introduction to Cloud DevOps":
@@ -91,9 +95,17 @@ The list below summarizes the websites used in this learning journey.
              
 [3].  Orders of magnitude (time)  
 
-             https://en.wikipedia.org/wiki/Orders_of_magnitude_(time)             
+             https://en.wikipedia.org/wiki/Orders_of_magnitude_(time)  
              
-[4].
+             
+[4].  Bertelsmann Will Fund 15,000 Scholarships to Learn Data, AI and Cloud Computing on Udacity
+
+             https://iblnews.org/bertelsmann-will-fund-15000-scholarships-to-learn-data-ai-and-cloud-computing-at-udacity-com/    
+             
+             
+[5].        
+             
+             
              
              
              
