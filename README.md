@@ -2,10 +2,10 @@
  #UdacityTechScholars                                      
  #PoweredByBertelsmann
  
-<img align="center" width="400" height="200" src="/image/education.png">
+<img align="left" width="400" height="200" src="/image/education.png">
 
 
-<img align="center" width="400" height="200" src="/image/udacity.png">
+<img align="right" width="400" height="200" src="/image/udacity.png">
 ______
 
 <img align="left" width="400" height="200" src="/image/title.png">
