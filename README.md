@@ -1,4 +1,7 @@
 
+<img align="right" width="300" height="200" src="/image/study.png">
+
+
     November, 2019
 ###                            DIGITAL JOURNAL     
 ### ***Archive and Diary of Study Notes***
@@ -33,7 +36,7 @@ ______
 ______
 
 
-<img align="right" width="300" height="200" src="/image/study.png">
+
  
 
 
