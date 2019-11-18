@@ -1,4 +1,4 @@
-
+### SMARTER LEARNING
 # Journal of 2019 Bertelsmann Technology Scholarship 
 
 ### ***Archive and Diary of Cloud DevOps Track***
