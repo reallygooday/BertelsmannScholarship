@@ -44,11 +44,13 @@ Bertelsmann is one of the largest mass media companies based in Germany. Bertels
 
 Relative Speed Numbers Every Programmer Should Know:
 
--           |
--          /|\  CPU = 0.4 ns
--           |   RAM = 100 ns
--           |   SSD Storage = 16 µs
--           |   Network = 150 ms
+              |
+             / \
+            / | \         CPU = 0.4 ns
+              |           RAM = 100 ns
+              |           SSD Storage = 16 µs
+              |           Network = 150 ms
+              |
 
 Orders of magnitude (time) [3]:
 
