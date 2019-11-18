@@ -1,4 +1,7 @@
 
+
+###                            DIGITAL JOURNAL        
+
  #UdacityTechScholars                                      
  #PoweredByBertelsmann
  
@@ -14,8 +17,7 @@ ______
 ______
 ______
 
-
-###                            DIGITAL JOURNAL                                           
+                                   
 
 
 
