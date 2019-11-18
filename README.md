@@ -30,5 +30,14 @@ The Part 2 "Cloud DevOps":
    - [x] Learning to design and deploy infrastructure as code, build and monitor CI/CD pipelines for different deployment strategies, and deploy scaleable microservices using Kubernetes. 
   
 
+______  
    
-   
+   BIBLIOGRAPHY
+The list below summarizes the websites used in this learning journey.
+
+[1]. Technology Scholarship Program
+
+             https://www.udacity.com/bertelsmann-tech-scholarships
+             
+             
+[2]. 
