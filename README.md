@@ -19,7 +19,8 @@
 
 
  
- #UdacityTechScholars                                      #PoweredByBertelsmann
+ #UdacityTechScholars                                      
+ #PoweredByBertelsmann
 
 <img align="right" width="200" height="200" src="/image/Bertelsmann.jpg">
 
