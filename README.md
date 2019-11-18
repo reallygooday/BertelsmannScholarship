@@ -19,9 +19,11 @@ ______
                                                                               
                                                                               
                                                              
-                        
+______                        
 
 ### ***Archive and Diary of Study Notes***
+
+______
 
 
 <img align="right" width="300" height="200" src="/image/study.png">
