@@ -3,7 +3,7 @@
 
 
     November, 2019
-#                            DIGITAL JOURNAL   
+#                            •DIGITAL JOURNAL•   
 
 
 
@@ -89,7 +89,7 @@ Orders of Size (time) [3]:
 _________
 _________
    
-   *RANDOM FUN FACTS*
+  ## *RANDOM FUN FACTS*
    
   [x]. The unicorn is the national animal of Scotland.[2]
   
@@ -102,10 +102,10 @@ _________
   ______
   ______
    
-   *BIBLIOGRAPHY, REFERENCES AND CREDITS*
+ ## *BIBLIOGRAPHY, REFERENCES AND CREDITS*
    
    
-[This Journal barely touches on complexity of the Scholarship.]  
+•[This Journal barely touches on complexity of the Scholarship.]•
    
 The list below summarizes the websites used in this Digital Diary.
 
