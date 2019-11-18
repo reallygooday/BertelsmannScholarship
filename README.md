@@ -61,6 +61,9 @@ The Part 2 "Cloud DevOps":
   
 __________
 
+*[This Journal barely touches on complexity of the Scholarship.]*
+__________
+
 ***November 18, Monday 2019***
 
 **STUDY NOTES**
@@ -105,7 +108,7 @@ _________
  ## *BIBLIOGRAPHY, REFERENCES AND CREDITS*
    
    
-*[This Journal barely touches on complexity of the Scholarship.]*
+
    
 The list below summarizes the websites used in this Digital Diary.
 
