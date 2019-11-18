@@ -1,4 +1,7 @@
 
+ #UdacityTechScholars                                      
+ #PoweredByBertelsmann
+
 <img align="left" width="400" height="200" src="/image/title.png">
 
 
@@ -19,8 +22,7 @@
 
 
  
- #UdacityTechScholars                                      
- #PoweredByBertelsmann
+
 
 <img align="right" width="200" height="200" src="/image/Bertelsmann.jpg">
 
