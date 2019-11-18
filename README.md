@@ -30,7 +30,7 @@ The Part 2 "Cloud DevOps":
    - [x] Learning to design and deploy infrastructure as code, build and monitor CI/CD pipelines for different deployment strategies, and deploy scaleable microservices using Kubernetes. 
   
 __________
-DATE: November 18, Monday 2019
+*** November 18, Monday 2019 ***
 
 
 ______  
