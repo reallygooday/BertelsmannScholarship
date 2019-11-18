@@ -26,7 +26,7 @@
  
 
 
-<img align="right" width="200" height="200" src="/image/Bertelsmann.jpg">
+<img align="left" width="200" height="200" src="/image/Bertelsmann.jpg">
 
 ______
 
