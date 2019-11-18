@@ -1,7 +1,7 @@
 
     November, 2019
-###                            DIGITAL JOURNAL        
-
+###                            DIGITAL JOURNAL     
+### ***Archive and Diary of Study Notes***
  #UdacityTechScholars                                      
  #PoweredByBertelsmann
  
@@ -28,7 +28,7 @@ ______
                                                              
 ______                        
 
-### ***Archive and Diary of Study Notes***
+
 
 ______
 
