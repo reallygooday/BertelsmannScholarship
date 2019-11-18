@@ -24,7 +24,7 @@ ______
 ### ***Archive and Diary of Study Notes***
 
 
-<img align="right" width="400" height="200" src="/image/study.png">
+<img align="right" width="200" height="200" src="/image/study.png">
  
 
 
