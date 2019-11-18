@@ -8,7 +8,7 @@
                                                                               
                                                                               
                                                              
-# Journal of 2019 Bertelsmann Technology Scholarship 
+# Digital Journal of 2019 Bertelsmann Technology Scholarship 
 
 ### ***Archive and Diary of Cloud DevOps Track***
 
@@ -40,9 +40,20 @@ The Part 2 "Cloud DevOps":
 __________
 ***November 18, Monday 2019***
 
+Bertelsmann is one of the largest mass media companies based in Germany. Bertelsmann was founded as a publishing house by Carl Bertelsmann in 1835.Worldwide Bertelsmann has almost 350 locations.
 
+Relative Speed Numbers Every Programmer Should Know:
+           |
+          /|\  CPU = 0.4 ns
+           |   RAM = 100 ns
+           |   SSD Storage = 16 µs
+           |   Network = 150 ms
 
+Orders of magnitude (time) [3]:
 
+1 ns = 0,000 001 ms
+1 ms = 1,000,000 ns
+1 000 ns = 1 µs
 ______  
    
    *RANDOM FUN FACTS*
@@ -53,9 +64,11 @@ ______
   
   [x]. Kids ask 300 questions a day.[2]
   
+  [x].
+  
   ______  
    
-   *BIBLIOGRAPHY*
+   *BIBLIOGRAPHY, REFERENCES AND CREDITS*
    
    
 The list below summarizes the websites used in this learning journey.
@@ -67,5 +80,14 @@ The list below summarizes the websites used in this learning journey.
              
 [2]. 150 Random Facts So Interesting You'll Say, "OMG!"
 
-
              https://bestlifeonline.com/random-fun-facts/
+             
+             
+[3].  Orders of magnitude (time)  
+
+             https://en.wikipedia.org/wiki/Orders_of_magnitude_(time)             
+             
+[4].
+             
+             
+             
