@@ -2,7 +2,7 @@
 
 
 
-    ***Date of Acceptance: November 15, Friday 2019***
+    Date of Acceptance: November 15, Friday 2019
                                                                              
                                                                              
                                                                               
