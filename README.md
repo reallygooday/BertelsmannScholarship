@@ -1,5 +1,5 @@
 
-
+    November, 2019
 ###                            DIGITAL JOURNAL        
 
  #UdacityTechScholars                                      
@@ -21,7 +21,6 @@ ______
 
 
 
-    November, 2019
                                                                              
                                                                              
                                                                               
