@@ -4,6 +4,8 @@
  
 <img align="center" width="400" height="200" src="/image/education.png">
 
+
+<img align="center" width="400" height="200" src="/image/udacity.png">
 ______
 
 <img align="left" width="400" height="200" src="/image/title.png">
@@ -55,7 +57,9 @@ The Part 2 "Cloud DevOps":
    - [x] Learning to design and deploy infrastructure as code, build and monitor CI/CD pipelines for different deployment strategies, and deploy scaleable microservices using Kubernetes. 
   
 __________
+
 ***November 18, Monday 2019***
+
 **STUDY NOTES**
 
 <img align="right" width="150" height="200" src="/image/laptop.jpg">
