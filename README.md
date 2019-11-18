@@ -1,5 +1,5 @@
 
-<img align="left" width="200" height="200" src="/image/title.png">
+<img align="left" width="400" height="200" src="/image/title.png">
 
 
 ### SMARTER LEARNING CLOUD COMPUTING SKILLS                                              
