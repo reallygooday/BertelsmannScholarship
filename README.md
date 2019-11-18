@@ -54,9 +54,9 @@ Relative Speed Numbers Every Programmer Should Know:
 
 Orders of magnitude (time) [3]:
 
-1 ns = 0,000 001 ms
-1 ms = 1,000,000 ns
-1 000 ns = 1 µs
+               1 ns = 0,000 001 ms
+               1 ms = 1,000,000 ns
+               1 000 ns = 1 µs
 ______  
    
    *RANDOM FUN FACTS*
