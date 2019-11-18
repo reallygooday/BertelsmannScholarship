@@ -58,6 +58,8 @@ __________
 ***November 18, Monday 2019***
 **STUDY NOTES**
 
+<img align="right" width="150" height="200" src="/image/laptop.jpg">
+
 Relative Speed Numbers Every Programmer Should Know:
 
               |
@@ -68,14 +70,15 @@ Relative Speed Numbers Every Programmer Should Know:
               |           Network = 150 ms
               |
 
-Orders of magnitude (time) [3]:
+Orders of Size (time) [3]:
 
                1 ns = 0,000 001 ms
                1 ms = 1,000,000 ns
                1 000 ns = 1 µs
                
-               
-<img align="right" width="150" height="200" src="/image/laptop.jpg">              
+                
+
+
 _________
 _________
    
