@@ -1,9 +1,11 @@
-### SMARTER LEARNING
+### SMARTER LEARNING                                                          | *****Date of Acceptance: November 15, Friday 2019*****
+                                                                              |
+                                                             
 # Journal of 2019 Bertelsmann Technology Scholarship 
 
 ### ***Archive and Diary of Cloud DevOps Track***
 
-***Date of Acceptance: November 15, Friday 2019***
+
 
  Learning in-demand Cloud Computing skills 
  
