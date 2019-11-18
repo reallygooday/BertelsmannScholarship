@@ -3,7 +3,7 @@
 
 
     November, 2019
-#                            •DIGITAL JOURNAL•   
+#                            *DIGITAL JOURNAL*  
 
 
 
@@ -105,7 +105,7 @@ _________
  ## *BIBLIOGRAPHY, REFERENCES AND CREDITS*
    
    
-•[This Journal barely touches on complexity of the Scholarship.]•
+*[This Journal barely touches on complexity of the Scholarship.]*
    
 The list below summarizes the websites used in this Digital Diary.
 
