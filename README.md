@@ -4,6 +4,8 @@
  
 <img align="center" width="400" height="200" src="/image/education.png">
 
+______
+
 <img align="left" width="400" height="200" src="/image/title.png">
 
 
