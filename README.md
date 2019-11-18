@@ -3,7 +3,10 @@
 
 
     November, 2019
-###                            DIGITAL JOURNAL     
+###                            DIGITAL JOURNAL   
+
+This Journal barely touches on complexity of the Scholarship.
+
 ### ***Archive and Diary of Study Notes***
  #UdacityTechScholars                                      
  #PoweredByBertelsmann
