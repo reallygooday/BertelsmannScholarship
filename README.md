@@ -76,7 +76,8 @@ Orders of magnitude (time) [3]:
                
                
 <img align="right" width="150" height="200" src="/image/laptop.jpg">              
-______  
+_________
+_________
    
    *RANDOM FUN FACTS*
    
@@ -88,7 +89,8 @@ ______
   
   [x].
   
-  ______  
+  ______
+  ______
    
    *BIBLIOGRAPHY, REFERENCES AND CREDITS*
    
@@ -118,7 +120,8 @@ The list below summarizes the websites used in this learning journey.
 [5].        
              
              
- ______            
+ ______   
+ ______
     
 <img align="centre" width="400" height="400" src="/image/Bertelsmann.jpg">        
              
