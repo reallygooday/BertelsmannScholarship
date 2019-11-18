@@ -2,11 +2,11 @@
 
 
 
-    | *****Date of Acceptance: November 15, Friday 2019*****
+    *****Date of Acceptance: November 15, Friday 2019*****
                                                                              
                                                                              
-                                                                              |
-                                                                              |
+                                                                              
+                                                                              
                                                              
 # Journal of 2019 Bertelsmann Technology Scholarship 
 
