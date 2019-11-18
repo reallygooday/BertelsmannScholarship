@@ -11,6 +11,10 @@ ______
 <img align="left" width="400" height="200" src="/image/title.png">
 
 
+______
+______
+
+
 ###                            DIGITAL JOURNAL                                           
 
 
