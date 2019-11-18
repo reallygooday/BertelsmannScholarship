@@ -2,7 +2,7 @@
 <img align="left" width="400" height="200" src="/image/title.png">
 
 
-###                             CLOUD COMPUTING                                              
+###                            DIGITAL JOURNAL                                           
 
 
 
@@ -12,7 +12,7 @@
                                                                               
                                                                               
                                                              
-#                              Digital Journal 
+                        
 
 ### ***Archive and Diary of Cloud DevOps Track***
 
