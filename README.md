@@ -27,7 +27,7 @@ ___
 Cohort begins Nov‍emb‍er 2‍0th, 2‍01‍9 (the initial 3.5-month foundational course in Cloud track)
 
 
-Bertelsmann is one of the largest mass media companies based in Germany. Bertelsmann was founded as a publishing house by Carl Bertelsmann in 1835. Worldwide Bertelsmann has almost 350 locations.
+Bertelsmann is one of the largest mass media companies based in Germany. Worldwide the company has almost 350 locations. It was founded as a publishing house by Carl Bertelsmann in 1835. 
 
 
 The Initial Challenge Course "Introduction to Cloud DevOps":
