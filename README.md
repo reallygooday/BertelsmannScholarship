@@ -113,7 +113,7 @@ The list below summarizes the websites used in this learning journey.
 [5].        
              
              
-             
+ ______            
     
-<img align="left" width="400" height="400" src="/image/Bertelsmann.jpg">        
+<img align="center" width="400" height="400" src="/image/Bertelsmann.jpg">        
              
