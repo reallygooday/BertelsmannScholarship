@@ -73,6 +73,9 @@ Orders of magnitude (time) [3]:
                1 ns = 0,000 001 ms
                1 ms = 1,000,000 ns
                1 000 ns = 1 µs
+               
+               
+<img align="right" width="150" height="200" src="/image/laptop.jpg">              
 ______  
    
    *RANDOM FUN FACTS*
