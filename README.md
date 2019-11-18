@@ -26,6 +26,10 @@ ___
 
 Cohort begins Nov‍emb‍er 2‍0th, 2‍01‍9 (the initial 3.5-month foundational course in Cloud track)
 
+
+Bertelsmann is one of the largest mass media companies based in Germany. Bertelsmann was founded as a publishing house by Carl Bertelsmann in 1835. Worldwide Bertelsmann has almost 350 locations.
+
+
 The Initial Challenge Course "Introduction to Cloud DevOps":
 
    - [x] Learning cloud computing fundamentals and the basics of the command line interface of a Linux server;
@@ -39,8 +43,7 @@ The Part 2 "Cloud DevOps":
   
 __________
 ***November 18, Monday 2019***
-
-Bertelsmann is one of the largest mass media companies based in Germany. Bertelsmann was founded as a publishing house by Carl Bertelsmann in 1835.Worldwide Bertelsmann has almost 350 locations.
+**STUDY NOTES**
 
 Relative Speed Numbers Every Programmer Should Know:
 
