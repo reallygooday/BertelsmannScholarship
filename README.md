@@ -32,7 +32,9 @@ The Part 2 "Cloud DevOps":
 
 ______  
    
-   BIBLIOGRAPHY
+   *BIBLIOGRAPHY*
+   
+   
 The list below summarizes the websites used in this learning journey.
 
 [1]. Technology Scholarship Program
