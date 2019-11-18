@@ -3,7 +3,7 @@
 
 
     November, 2019
-###                            DIGITAL JOURNAL   
+#                            DIGITAL JOURNAL   
 
 
 
@@ -39,12 +39,14 @@ ______
 ______
 ______
 
-Cohort begins Nov‍emb‍er 2‍0th, 2‍01‍9 (the initial 3.5-month foundational course in Cloud track)
+
 
 
 Bertelsmann is the German media and services multinational corporation Worldwide the company has almost 350 locations. It was founded as a publishing house by Carl Bertelsmann in 1835. 
 
-#  *VISUAL PLANNING*
+##  *VISUAL PLANNING*
+
+Cohort begins Nov‍emb‍er 2‍0th, 2‍01‍9 (the initial 3.5-month foundational course in Cloud track)
 
 The Initial Challenge Course "Introduction to Cloud DevOps":
 
