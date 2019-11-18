@@ -43,11 +43,12 @@ __________
 Bertelsmann is one of the largest mass media companies based in Germany. Bertelsmann was founded as a publishing house by Carl Bertelsmann in 1835.Worldwide Bertelsmann has almost 350 locations.
 
 Relative Speed Numbers Every Programmer Should Know:
-           |
-          /|\  CPU = 0.4 ns
-           |   RAM = 100 ns
-           |   SSD Storage = 16 µs
-           |   Network = 150 ms
+
+-           |
+-          /|\  CPU = 0.4 ns
+-           |   RAM = 100 ns
+-           |   SSD Storage = 16 µs
+-           |   Network = 150 ms
 
 Orders of magnitude (time) [3]:
 
