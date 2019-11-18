@@ -5,9 +5,9 @@
     November, 2019
 ###                            DIGITAL JOURNAL   
 
-This Journal barely touches on complexity of the Scholarship.
 
-### ***Archive and Diary of Study Notes***
+
+### ***Digital Archive and Diary of Scholarship Study Notes***
  #UdacityTechScholars                                      
  #PoweredByBertelsmann
  
@@ -102,7 +102,9 @@ _________
    *BIBLIOGRAPHY, REFERENCES AND CREDITS*
    
    
-The list below summarizes the websites used in this learning journey.
+[This Journal barely touches on complexity of the Scholarship.]  
+   
+The list below summarizes the websites used in this Digital Diary.
 
 [1]. Technology Scholarship Program
 
