@@ -127,6 +127,8 @@ __________
 
 **STUDY NOTES**
 
+Terminal is an interface to Shell. On the Mac the Terminal Program is in the Applications/Utilities folder.
+
 Shell:
 graphical GUI;
 text CLI.
