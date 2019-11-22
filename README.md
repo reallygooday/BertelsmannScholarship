@@ -63,6 +63,36 @@ The Part 2 "Cloud DevOps":
    - [x] Learning to operationalize infrastructure at scale and deliver applications and services at high velocity;
    - [x] Learning to design and deploy infrastructure as code, build and monitor CI/CD pipelines for different deployment strategies, and deploy scaleable microservices using Kubernetes. 
   
+  
+ ### *CORE CURRICULUM*
+ 
+  - [x] Lesson 1 "Welcome to the Challenge";
+  - [x] Lesson 2 "Shell Workshop";  
+  - [x] Lesson 3 "What is Version Control ?"; 
+  - [x] Lesson 4 "Create a Git Repo";
+  - [x] Lesson 5 "Review a Repo's History;
+  - [x] Lesson 6 "Add commits to a Repo";
+  - [x] Lesson 7 "Tagging, Branching and Merging";
+  - [x] Lesson 8 "Undoing Changes";
+  - [x] Lesson 9 "Working with Remotes";
+  - [x] Lesson 10 "Working on Another Developer's Repository";
+  - [x] Lesson 11 "Staying in Sync with a Remote Repository";
+  - [x] Lesson 12 "Cloud Computing";
+  - [x] Lesson 13 "Foundational and Compute Service";
+  - [x] Lesson 14 "Sorage and Content Delivery";
+  - [x] Lesson 15 "Security";
+  - [x] Lesson 16 "Networking and Elasticity";
+  - [x] Lesson 17 "Messaging and Containers";
+  - [x] Lesson 18 "AWS Management";
+  - [x] Lesson 19 "Getting Started with CloudForamtion";
+  - [x] Lesson 20 "Infrastructure Diagrams";
+  - [x] Lesson 21 "Networking Infrastructure";
+  - [x] Lesson 22 "Servers and Security Groups";
+  - [x] Lesson 23 "Starage and Databases";
+  - [x] Lesson 24 "Challenge Course Wrap-Up"
+  
+  
+  
 __________
 
 *[This Journal barely touches on complexity of the Scholarship.]*
