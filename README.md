@@ -87,6 +87,22 @@ Orders of Size (time) [3]:
                1 000 ns = 1 µs
                
                 
+__________
+
+***November 23, Friday 2019***
+
+**STUDY NOTES**
+
+     5 Most Popular Shells for Linux:
+     - [1] Bash
+     - [2] Tcsh
+     - [3] Ksc
+     - [4] Zsh
+     - [5] Fish
+
+
+
+
 
 
 _________
