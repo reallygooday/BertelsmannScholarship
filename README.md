@@ -130,8 +130,8 @@ __________
 The Lesson 1 addresses shell scripting. The shell is directly linked to the kernel. Terminal is an interface to shell.( On the Mac the Terminal Program is in the Applications/Utilities folder.)
 
 Shell:
-graphical GUI;
-text CLI.
+- [x] graphical GUI;
+- [x] text CLI.
 
      5 Most Popular Shells for Linux[5]:
      - [1] Bash (Mac and Linux computers use the BASH shell by default);
