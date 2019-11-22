@@ -7,7 +7,7 @@
 
 
 
-### ***Digital Archive and Diary of Scholarship Study Notes***
+### ***Digital Archive and Diary of the First Phase***
  #UdacityTechScholars                                      
  #PoweredByBertelsmann
  
