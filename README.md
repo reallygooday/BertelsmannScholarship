@@ -110,13 +110,13 @@ _________
    
   ## *RANDOM FUN FACTS*
    
-     - [x]. The unicorn is the national animal of Scotland.[2]
+     - [x] The unicorn is the national animal of Scotland.[2]
   
-     - [x]. Bees sometimes sting other bees.[2]
+     - [x] Bees sometimes sting other bees.[2]
   
-     - [x]. Kids ask 300 questions a day.[2]
+     - [x] Kids ask 300 questions a day.[2]
   
-     - [x].
+     - [x]
   
   ______
   ______
