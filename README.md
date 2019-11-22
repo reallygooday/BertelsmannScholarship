@@ -93,7 +93,7 @@ __________
 
 **STUDY NOTES**
 
-     5 Most Popular Shells for Linux:
+     5 Most Popular Shells for Linux[5]:
      - [1] Bash
      - [2] Tcsh
      - [3] Ksc
@@ -110,13 +110,13 @@ _________
    
   ## *RANDOM FUN FACTS*
    
-  [x]. The unicorn is the national animal of Scotland.[2]
+     [x]. The unicorn is the national animal of Scotland.[2]
   
-  [x]. Bees sometimes sting other bees.[2]
+     [x]. Bees sometimes sting other bees.[2]
   
-  [x]. Kids ask 300 questions a day.[2]
+     [x]. Kids ask 300 questions a day.[2]
   
-  [x].
+     [x].
   
   ______
   ______
@@ -148,7 +148,9 @@ The list below summarizes the websites used in this Digital Diary.
              https://iblnews.org/bertelsmann-will-fund-15000-scholarships-to-learn-data-ai-and-cloud-computing-at-udacity-com/    
              
              
-[5].        
+[5].  Most Frequently Used Open Source Shells for Linux5].      
+ 
+              https://www.tecmint.com/different-types-of-linux-shells/            
              
              
  ______   
