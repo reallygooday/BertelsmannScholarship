@@ -133,7 +133,7 @@ Shell:
 - [x] graphical GUI;
 - [x] text CLI.
 
-     5 Most Popular Shells for Linux[5]:
+5 Most Popular Shells for Linux[5]:
      - [1] Bash (Mac and Linux computers use the BASH shell by default);
      - [2] Tcsh;
      - [3] Ksc;
