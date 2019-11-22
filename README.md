@@ -127,7 +127,7 @@ __________
 
 **STUDY NOTES**
 
-Terminal is an interface to Shell. On the Mac the Terminal Program is in the Applications/Utilities folder.
+The Lesson 1 addresses shell scripting. The shell is directly linked to the kernel. Terminal is an interface to shell.( On the Mac the Terminal Program is in the Applications/Utilities folder.)
 
 Shell:
 graphical GUI;
