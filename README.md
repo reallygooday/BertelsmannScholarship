@@ -114,7 +114,7 @@ _________
   
    - [x] Bees sometimes sting other bees [2];
   
-   - [x] Kids ask 300 questions a day [2];
+   - [x] Kids ask 300 questions a day [2]
   
    
   
