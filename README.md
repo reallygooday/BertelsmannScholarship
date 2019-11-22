@@ -152,7 +152,7 @@ The list below summarizes the websites used in this Digital Diary.
              https://iblnews.org/bertelsmann-will-fund-15000-scholarships-to-learn-data-ai-and-cloud-computing-at-udacity-com/    
              
              
-[5].  Most Frequently Used Open Source Shells for Linux5].      
+[5].  Five Most Frequently Used Open Source Shells for Linux.      
  
               https://www.tecmint.com/different-types-of-linux-shells/            
              
