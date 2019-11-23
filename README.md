@@ -4,7 +4,7 @@
 
    Start Date: November 20, 2019
    
-   End Date: March 5, 2020
+   ~~_End Date: March 5, 2020_
    
 #                            *DIGITAL JOURNAL*  
 
@@ -139,7 +139,7 @@ __________
 
 **STUDY NOTES**
 
-The Lesson 1 addresses shell scripting. The shell is directly linked to the kernel. Terminal is an interface to shell.( On the Mac the Terminal Program is in the Applications/Utilities folder.)
+The Lesson 1 addresses `shell scripting`. The shell is directly linked to the kernel. Terminal is an interface to shell.( On the Mac the Terminal Program is in the Applications/Utilities folder.)
 
 Shell:
 - [x] graphical GUI;
@@ -180,14 +180,14 @@ _________
    
 The list below summarizes the websites used in this Digital Diary.
 
-[1]. Technology Scholarship Program
+[1]. [Technology Scholarship Program]
 
-             https://www.udacity.com/bertelsmann-tech-scholarships
+             (https://www.udacity.com/bertelsmann-tech-scholarships)
              
              
 [2]. 150 Random Facts So Interesting You'll Say, "OMG!"
 
-             https://bestlifeonline.com/random-fun-facts/
+             (https://bestlifeonline.com/random-fun-facts/)
              
              
 [3].  Orders of magnitude (time)  
