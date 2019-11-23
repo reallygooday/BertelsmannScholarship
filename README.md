@@ -43,7 +43,7 @@ ______
 ______
 
 
-      Bertelsmann is the German media and services multinational corporation Worldwide the company has almost 350 locations. It was founded as a publishing house by Carl Bertelsmann in 1835. 
+      Bertelsmann is the German media and services multinational corporation. Worldwide the company has almost 350 locations. It was founded as a publishing house by Carl Bertelsmann in 1835. 
 ______
 
 
@@ -69,9 +69,13 @@ The Part 2 "Cloud DevOps":
   
  ### *CORE CURRICULUM*
  
-  - [x] Lesson 1 "Welcome to the Challenge";
-  - [x] Lesson 2 "Shell Workshop";  
-  - [x] Lesson 3 "What is Version Control ?"; 
+ ===============================================================
+  - [x] Lesson 1 | "Welcome to the Challenge"                  |
+  ==============================================================
+  - [x] Lesson 2 | "Shell Workshop"                            |  
+  ==============================================================
+  - [x] Lesson 3 |  "What is Version Control ?"                | 
+  ==============================================================
   - [x] Lesson 4 "Create a Git Repo";
   - [x] Lesson 5 "Review a Repo's History;
   - [x] Lesson 6 "Add commits to a Repo";
