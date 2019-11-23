@@ -10,7 +10,7 @@
 
 
 
-### ***Digital Archive and Diary of the First Phase Challenge***
+### ***Digital Archive and Diary of the First Round Challenge***
  #UdacityTechScholars                                      
  #PoweredByBertelsmann
  
@@ -68,34 +68,35 @@ The Part 2 "Cloud DevOps":
   
  ### *CORE CURRICULUM*
  
-| *Lesson*      | *Topic*                                   |*Completion Date*          |
-| ------------- |:-----------------------------------------:| -------------------------:|
-| Lesson 1      | _Welcome to the Challenge_                | November 23, 2019         |
-| Lesson 2      | _Shell Workshop_                          | November 23, 2019         |
-| Lesson 3      | _What is Version Control ?_               | November 23, 2019         |
-| Lesson 4      | _Create a Git_                            |                           |
-| Lesson 5      | _Review a Repo's History_                 |                           |
-| Lesson 6      |_Add commits to a Repo_                    |                           |
-| Lesson 7      | _Tagging, Branching and Merging_          |                           |
-| Lesson 8      | _Undoing Changes_                         |                           |
-| Lesson 9      | _Working with Remotes_                    |                           |
+| *Lesson*      | *Topic*                                         |*Completion Date*          |
+| ------------- |:-----------------------------------------------:| -------------------------:|
+| Lesson 1      | _Welcome to the Challenge_                      | November 23, 2019         |
+| Lesson 2      | _Shell Workshop_                                | November 23, 2019         |
+| Lesson 3      | _What is Version Control ?_                     | November 23, 2019         |
+| Lesson 4      | _Create a Git_                                  |                           |
+| Lesson 5      | _Review a Repo's History_                       |                           |
+| Lesson 6      |_Add commits to a Repo_                          |                           |
+| Lesson 7      | _Tagging, Branching and Merging_                |                           |
+| Lesson 8      | _Undoing Changes_                               |                           |
+| Lesson 9      | _Working with Remotes_                          |                           |
+| Lesson 10     | _Working on Another Developer's Repository_     |                           |
+| Lesson 11     | _Staying in Sync with a Remote Repository_      |                           |
+| Lesson 12     | _Cloud Computing_                               |                           |
+| Lesson 13     | _Foundational and Compute Service_              |                           |
+| Lesson 14     | _Sorage and Content Delivery_                   |                           |
+| Lesson 15     | _Security_                                      |                           |
+| Lesson 16     | _Networking and Elasticity_                     |                           |
+| Lesson 17     | _Messaging and Containers_                      |                           |
+| Lesson 18     | _AWS Management_                                |                           |
+| Lesson 19     | _Getting Started with CloudForamtion_           |                           |
+| Lesson 20     | _Infrastructure Diagrams_                       |                           |
+| Lesson 21     | _Networking Infrastructure_                     |                           |
+| Lesson 22     | _Servers and Security Groups_                   |                           |
+| Lesson 23     | _Storage and Databases_                         |                           |
+| Lesson 24     | _Challenge Course Wrap-Up_                      |                           |
+|---------------|:-----------------------------------------------:|--------------------------:|
 
-  - [x] Lesson 10 "Working on Another Developer's Repository";
-  - [x] Lesson 11 "Staying in Sync with a Remote Repository";
-  - [x] Lesson 12 "Cloud Computing";
-  - [x] Lesson 13 "Foundational and Compute Service";
-  - [x] Lesson 14 "Sorage and Content Delivery";
-  - [x] Lesson 15 "Security";
-  - [x] Lesson 16 "Networking and Elasticity";
-  - [x] Lesson 17 "Messaging and Containers";
-  - [x] Lesson 18 "AWS Management";
-  - [x] Lesson 19 "Getting Started with CloudForamtion";
-  - [x] Lesson 20 "Infrastructure Diagrams";
-  - [x] Lesson 21 "Networking Infrastructure";
-  - [x] Lesson 22 "Servers and Security Groups";
-  - [x] Lesson 23 "Starage and Databases";
-  - [x] Lesson 24 "Challenge Course Wrap-Up"
-  
+ 
   
   
 __________
