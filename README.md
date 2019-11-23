@@ -4,7 +4,7 @@
 
    Start Date: November 20, 2019
    
-   Deadline: March 5, 2020
+   End Date: March 5, 2020
    
 #                            *DIGITAL JOURNAL*  
 
