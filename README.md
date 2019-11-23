@@ -70,11 +70,14 @@ The Part 2 "Cloud DevOps":
  ### *CORE CURRICULUM*
  
  ===============================================================
- | Lesson 1 | "Welcome to the Challenge"                       |
+               
+               Lesson 1 | Welcome to the Challenge                       
  ===============================================================
- | Lesson 2 | "Shell Workshop"                                 |  
+               
+               Lesson 2 | Shell Workshop                                  
  ===============================================================
- | Lesson 3 |  "What is Version Control ?"                     | 
+               
+               Lesson 3 | What is Version Control ?                    
  ===============================================================
   - [x] Lesson 4 "Create a Git Repo";
   - [x] Lesson 5 "Review a Repo's History;
