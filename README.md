@@ -2,7 +2,9 @@
 <img align="right" width="300" height="200" src="/image/study.png">
 
 
-    November, 2019
+   Start Date: November 20, 2019
+   Deadline: March 5, 2020
+   
 #                            *DIGITAL JOURNAL*  
 
 
