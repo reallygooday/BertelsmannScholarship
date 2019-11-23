@@ -66,7 +66,7 @@ The Part 2 "Cloud DevOps":
    - [x] Learning to operationalize infrastructure at scale and deliver applications and services at high velocity;
    - [x] Learning to design and deploy infrastructure as code, build and monitor CI/CD pipelines for different deployment strategies, and deploy scaleable microservices using Kubernetes. 
   
-![](challenge.gif)
+![](/image/challenge.gif)
 
  ### *CORE CURRICULUM*
  
