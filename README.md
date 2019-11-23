@@ -10,7 +10,7 @@
 
 
 
-### ***Digital Archive and Diary of the First Phase***
+### ***Digital Archive and Diary of the First Phase Challenge***
  #UdacityTechScholars                                      
  #PoweredByBertelsmann
  
@@ -68,21 +68,18 @@ The Part 2 "Cloud DevOps":
   
  ### *CORE CURRICULUM*
  
-| Lesson        | Topic                                     | Date Of Completion        |
+| *Lesson*      | *Topic*                                   |*Completion Date*          |
 | ------------- |:-----------------------------------------:| -------------------------:|
-| Lesson 1      | Welcome to the Challenge                  | November 23, 2019         |
-| Lesson 2      | Shell Workshop                            | November 23, 2019         |
-| Lesson 3      | What is Version Control ?                 | November 23, 2019         |
- 
+| Lesson 1      | _Welcome to the Challenge_                | November 23, 2019         |
+| Lesson 2      | _Shell Workshop_                          | November 23, 2019         |
+| Lesson 3      | _What is Version Control ?_               | November 23, 2019         |
+| Lesson 4      | _Create a Git_                            |                           |
+| Lesson 5      | _Review a Repo's History_                 |                           |
+| Lesson 6      |_Add commits to a Repo_                    |                           |
+| Lesson 7      | _Tagging, Branching and Merging_          |                           |
+| Lesson 8      | _Undoing Changes_                         |                           |
+| Lesson 9      | _Working with Remotes_                    |                           |
 
-
-
-  - [x] Lesson 4 "Create a Git Repo";
-  - [x] Lesson 5 "Review a Repo's History;
-  - [x] Lesson 6 "Add commits to a Repo";
-  - [x] Lesson 7 "Tagging, Branching and Merging";
-  - [x] Lesson 8 "Undoing Changes";
-  - [x] Lesson 9 "Working with Remotes";
   - [x] Lesson 10 "Working on Another Developer's Repository";
   - [x] Lesson 11 "Staying in Sync with a Remote Repository";
   - [x] Lesson 12 "Cloud Computing";
