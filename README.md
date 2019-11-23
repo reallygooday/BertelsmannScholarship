@@ -68,18 +68,15 @@ The Part 2 "Cloud DevOps":
   
  ### *CORE CURRICULUM*
  
- <table>
+| Lesson        | Topic                                     | Date Of Completion        |
+| ------------- |:-----------------------------------------:| -------------------------:|
+| Lesson 1      | Welcome to the Challenge                  | November 23, 2019         |
+| Lesson 2      | Shell Workshop                            | November 23, 2019         |
+| Lesson 3      | What is Version Control ?                 | November 23, 2019         |
  
- ===============================================================
-               
-             |            Lesson 1 | Welcome to the Challenge  |                     
- ===============================================================
-               
-             |           Lesson 2 | Shell Workshop             |                     
- ---------------------------------------------------------------
-                         Lesson 3 What is Version Control?
- 
-  ---------------------------------------------------------------
+
+
+
   - [x] Lesson 4 "Create a Git Repo";
   - [x] Lesson 5 "Review a Repo's History;
   - [x] Lesson 6 "Add commits to a Repo";
@@ -102,7 +99,7 @@ The Part 2 "Cloud DevOps":
   - [x] Lesson 23 "Starage and Databases";
   - [x] Lesson 24 "Challenge Course Wrap-Up"
   
-  </table>
+  
   
 __________
 
@@ -182,24 +179,16 @@ The list below summarizes the websites used in this Digital Diary.
 [1]. [Technology Scholarship Program](https://www.udacity.com/bertelsmann-tech-scholarships)
              
              
-[2]. 150 Random Facts So Interesting You'll Say, "OMG!"
-
-             (https://bestlifeonline.com/random-fun-facts/)
+[2]. [150 Random Facts So Interesting You'll Say, "OMG!"](https://bestlifeonline.com/random-fun-facts/)
              
              
-[3].  Orders of magnitude (time)  
-
-             https://en.wikipedia.org/wiki/Orders_of_magnitude_(time)  
+[3]. [Orders of magnitude (time)](https://en.wikipedia.org/wiki/Orders_of_magnitude_(time)) 
              
              
-[4].  Bertelsmann Will Fund 15,000 Scholarships to Learn Data, AI and Cloud Computing on Udacity
-
-             https://iblnews.org/bertelsmann-will-fund-15000-scholarships-to-learn-data-ai-and-cloud-computing-at-udacity-com/    
+[4].  [Bertelsmann Will Fund 15,000 Scholarships to Learn Data, AI and Cloud Computing on Udacity](https://iblnews.org/bertelsmann-will-fund-15000-scholarships-to-learn-data-ai-and-cloud-computing-at-udacity-com/)    
              
              
-[5].  Five Most Frequently Used Open Source Shells for Linux.      
- 
-              https://www.tecmint.com/different-types-of-linux-shells/            
+[5].  [Five Most Frequently Used Open Source Shells for Linux.](https://www.tecmint.com/different-types-of-linux-shells/)            
              
              
  ______   
