@@ -94,7 +94,7 @@ The Part 2 "Cloud DevOps":
 | Lesson 22     | _Servers and Security Groups_                   |                           |
 | Lesson 23     | _Storage and Databases_                         |                           |
 | Lesson 24     | _Challenge Course Wrap-Up_                      |                           |
-|---------------|-------------------------------------------------|---------------------------|
+
 
  
   
@@ -169,10 +169,7 @@ _________
    
  ## *BIBLIOGRAPHY, REFERENCES AND CREDITS*
    
-   
-
-   
-The list below summarizes the websites used in this Digital Diary.
+_The list below summarizes the websites used in this Digital Diary._
 
 [1]. [Technology Scholarship Program](https://www.udacity.com/bertelsmann-tech-scholarships)
              
@@ -186,7 +183,10 @@ The list below summarizes the websites used in this Digital Diary.
 [4].  [Bertelsmann Will Fund 15,000 Scholarships to Learn Data, AI and Cloud Computing on Udacity](https://iblnews.org/bertelsmann-will-fund-15000-scholarships-to-learn-data-ai-and-cloud-computing-at-udacity-com/)    
              
              
-[5].  [Five Most Frequently Used Open Source Shells for Linux.](https://www.tecmint.com/different-types-of-linux-shells/)            
+[5].  [Five Most Frequently Used Open Source Shells for Linux.](https://www.tecmint.com/different-types-of-linux-shells/)  
+
+
+[6]. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
              
              
  ______   
