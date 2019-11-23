@@ -51,6 +51,8 @@ _More than 45,000 people from all over the world applied for the Scholarship. 15
 
 _I have been selected for the first round of the Udacity technology scholarship program powered by Bertelsmann. The first round gives a chance to qualify for a full 6-month Scholarship. In the First Phase I work to complete Udacity Foundational course in the field of Cloud. During this time I have access to forums moderated by experts Udacity mentors._
 
+![](/image/cloud.gif)
+
 ##  *VISUAL PLANNING*
 
 Cohort begins Nov‍emb‍er 2‍0th, 2‍01‍9 (the initial 3.5-month foundational course in Cloud track)
