@@ -11,8 +11,9 @@
 
 
 ### ***Digital Archive and Diary of the First Round Challenge***
- #UdacityTechScholars                                      
- #PoweredByBertelsmann
+
+> #UdacityTechScholars                                      
+> #PoweredByBertelsmann
  
 <img align="left" width="400" height="200" src="/image/education.png">
 
@@ -65,7 +66,8 @@ The Part 2 "Cloud DevOps":
    - [x] Learning to operationalize infrastructure at scale and deliver applications and services at high velocity;
    - [x] Learning to design and deploy infrastructure as code, build and monitor CI/CD pipelines for different deployment strategies, and deploy scaleable microservices using Kubernetes. 
   
-  
+![](challenge.gif)
+
  ### *CORE CURRICULUM*
  
 | *Lesson*      | *Topic*                                         |*Completion Date*          |
