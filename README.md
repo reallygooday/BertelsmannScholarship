@@ -4,7 +4,7 @@
 
    Start Date: November 20, 2019
    
-   ~~End Date: March 5, 2020
+   ~~End Date: March 5, 2020~~
    
 #                            *DIGITAL JOURNAL*  
 
@@ -48,7 +48,7 @@ ______
 
 _More than 45,000 people from all over the world applied for the Scholarship. 15,000 recipients are participating in the First Phase. Top passionate, motivated and resilient scholars from the initial Challenge will earn one of 1,600 full scholarships to the Nanodegree program._
 
-I have been selected for the first round of the Udacity technology scholarship program powered by Bertelsmann. The first round gives a chance to qualify for a full 6-month Scholarship. In the First Phase I work to complete Udacity Foundational course in the field of Cloud. During this time I have access to forums moderated by experts Udacity mentors.
+_I have been selected for the first round of the Udacity technology scholarship program powered by Bertelsmann. The first round gives a chance to qualify for a full 6-month Scholarship. In the First Phase I work to complete Udacity Foundational course in the field of Cloud. During this time I have access to forums moderated by experts Udacity mentors._
 
 ##  *VISUAL PLANNING*
 
@@ -179,7 +179,7 @@ _________
    
 The list below summarizes the websites used in this Digital Diary.
 
-[1]. [Technology Scholarship Program] (https://www.udacity.com/bertelsmann-tech-scholarships)
+[1]. [Technology Scholarship Program](https://www.udacity.com/bertelsmann-tech-scholarships)
              
              
 [2]. 150 Random Facts So Interesting You'll Say, "OMG!"
