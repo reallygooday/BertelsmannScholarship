@@ -165,8 +165,10 @@ Completed:
 
 <img  width="400" height="300" src="/image/bingo.png">
 
-> SETTING STUDY REMINDERS THROUGH THE NEXT 2 WEEKS 
-> TIME ZONE: (GMT + 00:00) UNITED KINGDOM TIME
+>> SETTING STUDY REMINDERS THROUGH THE NEXT 2 WEEKS 
+
+>> TIME ZONE: (GMT + 00:00) UNITED KINGDOM TIME
+
 <img  width="400" height="300" src="/image/reminders.png">
 
 <img  width="400" height="300" src="/image/study_plan.png">
