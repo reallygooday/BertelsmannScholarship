@@ -160,7 +160,7 @@ Completed:
 
 - [x] 27% of the course;
 
-- [x] Bertelsmann Bingo, community participation opportunity.
+- [x] Bertelsmann Bingo, just a way to engage with the Bertelsmann Cloud Challenge community.
 
 
 <img  width="400" height="300" src="/image/bingo.png">
