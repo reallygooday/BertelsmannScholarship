@@ -162,9 +162,11 @@ Completed:
 
 - [x] Bertelsmann Bingo, community participation opportunity.
 
+BINGO CARD
+<img  width="400" height="300" src="/image/bingo.png">
 
-<img  width="300" height="300" src="/image/bingo.png">
-
+SETTING STUDY REMINDERS THROUGH THE NEXT 2 WEEKS 
+TIME ZONE: (GMT + 00:00) UNITED KINGDOM TIME
 <img  width="400" height="300" src="/image/reminders.png">
 
 <img  width="400" height="300" src="/image/study_plan.png">
@@ -177,14 +179,7 @@ Completed:
 _________
 _________
    
-  ## *RANDOM FUN FACTS*
-   
-   - [x] The unicorn is the national animal of Scotland [2];
-  
-   - [x] Bees sometimes sting other bees [2];
-  
-   - [x] Kids ask 300 questions a day [2]
-  
+
    
   
   ______
@@ -197,7 +192,7 @@ _The list below summarizes the websites used in this Digital Diary._
 [1]. [Technology Scholarship Program](https://www.udacity.com/bertelsmann-tech-scholarships)
              
              
-[2]. [150 Random Facts So Interesting You'll Say, "OMG!"](https://bestlifeonline.com/random-fun-facts/)
+[2]. [ ]( )
              
              
 [3]. [Orders of magnitude (time)](https://en.wikipedia.org/wiki/Orders_of_magnitude_(time)) 
