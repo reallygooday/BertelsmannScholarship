@@ -163,11 +163,11 @@ Completed:
 - [x] Bertelsmann Bingo, community participation opportunity.
 
 
-<img align="right" width="300" height="200" src="/image/bingo.png">
+<img align="right" width="300" height="300" src="/image/bingo.png">
 
-<img align="right" width="400" height="200" src="/image/reminders.png">
+<img align="left" width="400" height="300" src="/image/reminders.png">
 
-<img align="right" width="400" height="200" src="/image/study_plan.png">
+<img align="left" width="400" height="300" src="/image/study_plan.png">
 
 _________
 _________
