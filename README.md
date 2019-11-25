@@ -77,7 +77,7 @@ The Part 2 "Cloud DevOps":
 | Lesson 1      | _Welcome to the Challenge_                      | November 23, 2019         |
 | Lesson 2      | _Shell Workshop_                                | November 23, 2019         |
 | Lesson 3      | _What is Version Control ?_                     | November 23, 2019         |
-| Lesson 4      | _Create a Git_                                  |                           |
+| Lesson 4      | _Create a Git_                                  | November 25, 2019         |
 | Lesson 5      | _Review a Repo's History_                       |                           |
 | Lesson 6      |_Add commits to a Repo_                          |                           |
 | Lesson 7      | _Tagging, Branching and Merging_                |                           |
@@ -150,10 +150,24 @@ Shell:
  - [4] Zsh;
  - [5] Fish
 
+__________
+
+***November 25, Monday 2019***
+
+**STUDY NOTES**
+
+Completed:
+
+- [x] 27% of the course;
+
+- [x] Bertelsmann Bingo, community participation opportunity.
 
 
+<img align="right" width="150" height="150" src="/image/bingo.png">
 
+<img align="right" width="150" height="150" src="/image/reminders.png">
 
+<img align="right" width="150" height="150" src="/image/study_plan.png">
 
 _________
 _________
