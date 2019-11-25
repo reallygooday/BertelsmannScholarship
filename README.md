@@ -107,7 +107,7 @@ __________
 
 ### *ERRATA*
 
-*This Journal barely touches on complexity of the Scholarship. I have taken every care to ensure the accuracy of the content, mistakes do happen. If you find a mistake, please let me know.*
+*This Journal barely touches on complexity of the Scholarship. I have taken every care to ensure the accuracy of the content, but mistakes do happen. If you find a mistake, please let me know.*
 __________
 
 ***November 18, Monday 2019***
