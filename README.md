@@ -49,7 +49,7 @@ ______
 
 _More than 45,000 people from all over the world applied for the Scholarship. 15,000 recipients are participating in the First Phase. Top passionate, motivated and resilient scholars from the initial Challenge will earn one of 1,600 full scholarships to the Nanodegree program._
 
-_I have been selected for the first round of the Udacity technology scholarship program powered by Bertelsmann. The first round gives a chance to qualify for a full 6-month Scholarship. In the First Phase I work to complete Udacity Foundational course in the field of Cloud. During this time I have access to forums moderated by experts Udacity mentors._
+_My name is Angela, and I am a novice in Cloud Computing. I have been selected for the first round of the Udacity technology scholarship program powered by Bertelsmann. The first round gives a chance to qualify for a full 6-month Scholarship. In the First Phase I work to complete Udacity Foundational course in the field of Cloud. I don't have access to LINUX distribution, but I use the command line in OS X on Apple system - MacBook Pro with macOS Catalina Version 10.15.1._
 
 ![](/image/cloud.gif)
 
@@ -105,7 +105,9 @@ The Part 2 "Cloud DevOps":
   
 __________
 
-*[This Journal barely touches on complexity of the Scholarship.]*
+### *ERRATA*
+
+*This Journal barely touches on complexity of the Scholarship. I have taken every care to ensure the accuracy of the content, mistakes do happen. If you find a mistake, please let me know.*
 __________
 
 ***November 18, Monday 2019***
