@@ -206,7 +206,30 @@ Coded using the following Git command:
 > $git commit
 
 > $git diff
-  
+
+> $git config --global core.editor "Atom -w" [changing editor]
+
+> $cd ~/course-git-blog-project 
+
+> $git init new-git-project [creating new repository]
+
+> $git show 8d3ea36
+
+> $git log --oneline
+
+> $atom ~/course-git-blog-project
+
+> $git --stat
+
+> $git log -p
+
+> $git log -p --stat
+
+> $git log --stat -p
+
+> $git log -p -w [ignore changes to whitespace]
+
+> $q [quit]
   ______
   ______
    
