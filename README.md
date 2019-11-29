@@ -183,8 +183,23 @@ Completed:
 _________
 _________
    
+***November 29, Friday 2019***
 
-   
+**STUDY NOTES**
+
+Completed:
+
+- [x] 33% of the Introduction to Cloud DevOps course.
+
+Coded using the following Git command:
+
+>> $git init
+>> $git clone
+>> $git log
+>> $git status
+>> $git add
+>> $git commit
+>> $git diff
   
   ______
   ______
