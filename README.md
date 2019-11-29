@@ -193,13 +193,19 @@ Completed:
 
 Coded using the following Git command:
 
->> $git init
->> $git clone
->> $git log
->> $git status
->> $git add
->> $git commit
->> $git diff
+> $git init
+
+> $git clone
+
+> $git log
+
+> $git status
+
+> $git add
+
+> $git commit
+
+> $git diff
   
   ______
   ______
