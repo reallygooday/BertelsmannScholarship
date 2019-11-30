@@ -51,7 +51,7 @@ _More than 45,000 people from all over the world applied for the Scholarship. 15
 
 _My name is Angela, and I am a novice in Cloud Computing. I have been selected for the first round of the Udacity technology scholarship program powered by Bertelsmann. The first round gives a chance to qualify for a full 6-month Scholarship. In the First Phase I work to complete Udacity Foundational course in the field of Cloud. I don't have access to LINUX distribution, but I use the default command line, bash version 3.2.57(1)-release in OS X on Apple system, MacBook Pro with macOS Catalina Version 10.15.1._
 
-_***A little about me.*** I am a corporate receptionist based in East Barnet, UK. I am a part of the core team for Data Centre and am involved in many other companies. My interest in computing began while studying games programming at the University of Westminster and has grown since then. I have maintained a fascination with technology from the start. My favorite application to date has been creating style transfer by utilizing Deep Learning written in Python. I plan to contunue persuing my interest in growing technologies._
+_***A little about me.*** I am a corporate receptionist based in East Barnet, UK. I am a part of the team for Vodafone Data Centre and am involved in many other companies. My interest in computing began while studying games programming at the University of Westminster and has grown since then. I have maintained a fascination with technology from the start. My favorite application to date has been creating style transfer by utilizing Deep Learning written in Python. I plan to contunue persuing my interest in growing technologies._
 
 ![](/image/cloud.gif)
 
