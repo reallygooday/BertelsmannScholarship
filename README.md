@@ -78,13 +78,13 @@ The Part 2 "Cloud DevOps":
 | Lesson 2      | _Shell Workshop_                                | November 23, 2019         |
 | Lesson 3      | _What is Version Control ?_                     | November 23, 2019         |
 | Lesson 4      | _Create a Git_                                  | November 25, 2019         |
-| Lesson 5      | _Review a Repo's History_                       |                           |
-| Lesson 6      |_Add commits to a Repo_                          |                           |
-| Lesson 7      | _Tagging, Branching and Merging_                |                           |
-| Lesson 8      | _Undoing Changes_                               |                           |
-| Lesson 9      | _Working with Remotes_                          |                           |
-| Lesson 10     | _Working on Another Developer's Repository_     |                           |
-| Lesson 11     | _Staying in Sync with a Remote Repository_      |                           |
+| Lesson 5      | _Review a Repo's History_                       | November 30, 2019         |
+| Lesson 6      |_Add commits to a Repo_                          | November 30, 2019         |
+| Lesson 7      | _Tagging, Branching and Merging_                | November 30, 2019         |
+| Lesson 8      | _Undoing Changes_                               | November 30, 2019         |
+| Lesson 9      | _Working with Remotes_                          | November 30, 2019         |
+| Lesson 10     | _Working on Another Developer's Repository_     | November 30, 2019         |
+| Lesson 11     | _Staying in Sync with a Remote Repository_      | November 30, 2019         |
 | Lesson 12     | _Cloud Computing_                               |                           |
 | Lesson 13     | _Foundational and Compute Service_              |                           |
 | Lesson 14     | _Sorage and Content Delivery_                   |                           |
