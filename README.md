@@ -89,13 +89,13 @@ The Part 2 "Cloud DevOps":
 | Lesson 9      | _Working with Remotes_                          | November 30, 2019         |
 | Lesson 10     | _Working on Another Developer's Repository_     | November 30, 2019         |
 | Lesson 11     | _Staying in Sync with a Remote Repository_      | November 30, 2019         |
-| Lesson 12     | _Cloud Computing_                               |                           |
-| Lesson 13     | _Foundational and Compute Service_              |                           |
-| Lesson 14     | _Sorage and Content Delivery_                   |                           |
-| Lesson 15     | _Security_                                      |                           |
-| Lesson 16     | _Networking and Elasticity_                     |                           |
-| Lesson 17     | _Messaging and Containers_                      |                           |
-| Lesson 18     | _AWS Management_                                |                           |
+| Lesson 12     | _Cloud Computing_                               | December 7,  2019         |
+| Lesson 13     | _Foundational and Compute Service_              | December 7,  2019         |
+| Lesson 14     | _Sorage and Content Delivery_                   | December 7,  2019         |
+| Lesson 15     | _Security_                                      | December 7,  2019         |
+| Lesson 16     | _Networking and Elasticity_                     | December 7,  2019         |
+| Lesson 17     | _Messaging and Containers_                      | December 7,  2019         |
+| Lesson 18     | _AWS Management_                                | December 7,  2019         |
 | Lesson 19     | _Getting Started with CloudForamtion_           |                           |
 | Lesson 20     | _Infrastructure Diagrams_                       |                           |
 | Lesson 21     | _Networking Infrastructure_                     |                           |
@@ -234,6 +234,28 @@ Coded using the following Git command:
 > $git log -p -w [ignore changes to whitespace]
 
 > $q [quit]
+
+> $git commit -a
+
+> $git branch -a
+
+> $git checkout -b new-branch
+
+> $git checkout new-branch
+
+> $git fetch upstream
+
+> $git merge upstream/master
+
+> $git pull upstream master (git pull = git fletch + git merge)
+
+> $git rebase
+
+> $git rebase -i HEAD~3
+
+> $git log --online --graph --decorate --all
+
+> $git push -f
 
 
 _________
