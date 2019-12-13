@@ -203,30 +203,30 @@ Coded using the following Git command:
      > $git status
      > $git add
      > $git commit
-> $git diff
-> $git config --global core.editor "Atom -w" [changing editor]
-> $cd ~/course-git-blog-project 
-> $git init new-git-project [creating new repository]
-> $git show 8d3ea36
-> $git log --oneline
-> $atom ~/course-git-blog-project
-> $git --stat
-> $git log -p
-> $git log -p --stat
-> $git log --stat -p
-> $git log -p -w [ignore changes to whitespace]
-> $q [quit]
-> $git commit -a
-> $git branch -a
-> $git checkout -b new-branch
-> $git checkout new-branch
-> $git fetch upstream
-> $git merge upstream/master
-> $git pull upstream master (git pull = git fletch + git merge)
-> $git rebase
-> $git rebase -i HEAD~3
-> $git log --online --graph --decorate --all
-> $git push -f
+     > $git diff
+     > $git config --global core.editor "Atom -w" [changing editor]
+     > $cd ~/course-git-blog-project 
+     > $git init new-git-project [creating new repository]
+     > $git show 8d3ea36
+     > $git log --oneline
+     > $atom ~/course-git-blog-project
+     > $git --stat
+     > $git log -p
+     > $git log -p --stat
+     > $git log --stat -p
+     > $git log -p -w [ignore changes to whitespace]
+     > $q [quit]
+     > $git commit -a
+     > $git branch -a
+     > $git checkout -b new-branch
+     > $git checkout new-branch
+     > $git fetch upstream
+     > $git merge upstream/master
+     > $git pull upstream master (git pull = git fletch + git merge)
+     > $git rebase
+     > $git rebase -i HEAD~3
+     > $git log --online --graph --decorate --all
+     > $git push -f
 
 
 _________
@@ -251,12 +251,12 @@ Note: Currently (July 2018), the version of VirtualBox is 5.2. Newer versions do
 
 Coded using the following command:
 
-> $cd ~/Documents
-> $cd vm
+     > $cd ~/Documents
+     > $cd vm
 
-> $vagrant init ubuntu/trusty64
-> $vagrant up
-> $vagrant status
+     > $vagrant init ubuntu/trusty64
+     > $vagrant up
+     > $vagrant status
 
 I'm logged into a Linux virtual machine.
 
@@ -270,11 +270,11 @@ suspend the virtual machine. In either case, to restart it again,
 simply run `vagrant up`.
 
 
-> $vagrant suspend
-> $vagrant up
-> $vagrant ssh  
-> $vagrant halt
-> $vagrant destroy
+    > $vagrant suspend
+    > $vagrant up
+    > $vagrant ssh  
+    > $vagrant halt
+    > $vagrant destroy
 
 
 ______
