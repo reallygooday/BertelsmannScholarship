@@ -269,17 +269,46 @@ Completed:
 
 - [x] 53% of the Introduction to Cloud DevOps course.
 
-Coded using the following Git command:
-
-> $
+Started working within Linux virtual machine and following guidance from "Configuring Linux Web Servers" Udacity course [2]. 
 
 
+Every time you visit website your browser is requesting a number of files that located on a server. It's crucial to understand how servers work. Usually, that server is running Linux. This is why, I need to learn Linux (exploring the Lin ux file system, security permission system, firewall, software management). Linux is the most popular OS for web servers. Some estimates say 80% of public Internet servers are rumnning Linux. The Linux distribution RedHat is for large enterprise, corporate customers; Ubuntu is for ease of use on servers, desktops, laptops.
+
+Downloaded and installed VirtualBox. This is free software that will run the virtual machine.
+Downloaded and instaledl Vagrant. This is an command line utility that makes it easy to manage and access your virtual machines.
+Note: Currently (July 2018), the version of VirtualBox is 5.2. Newer versions do not yet support Vagrant.
+
+Coded using the following command:
+
+> $cd ~/Documents
+> $cd vm
+
+> $vagrant init ubuntu/trusty64
+> $vagrant up
+
+I'm logged into a Linux virtual machine.
+
+> $vagrant status
+
+Current machine states:
+
+default                   running (virtualbox)
+
+The VM is running. To stop this VM, you can run `vagrant halt` to
+shut it down forcefully, or you can run `vagrant suspend` to simply
+suspend the virtual machine. In either case, to restart it again,
+simply run `vagrant up`.
 
 
+> $vagrant suspend
+> $vagrant up
+> $vagrant ssh  
+> $vagrant halt
+> $vagrant destroy
 
 
-  ______
-  ______
+______
+______
    
  ## *BIBLIOGRAPHY, REFERENCES AND CREDITS*
    
@@ -288,7 +317,7 @@ _The list below summarizes the websites used in this Digital Diary._
 [1]. [Technology Scholarship Program](https://www.udacity.com/bertelsmann-tech-scholarships)
              
              
-[2]. [ ]( )
+[2]. ["Configuring Linux Web Servers" Udacity Course](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
              
              
 [3]. [Orders of magnitude (time)](https://en.wikipedia.org/wiki/Orders_of_magnitude_(time)) 
