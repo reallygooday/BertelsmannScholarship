@@ -198,63 +198,34 @@ Completed:
 Coded using the following Git command:
 
 > $git init
-
 > $git clone
-
 > $git log
-
 > $git status
-
 > $git add
-
 > $git commit
-
 > $git diff
-
 > $git config --global core.editor "Atom -w" [changing editor]
-
 > $cd ~/course-git-blog-project 
-
 > $git init new-git-project [creating new repository]
-
 > $git show 8d3ea36
-
 > $git log --oneline
-
 > $atom ~/course-git-blog-project
-
 > $git --stat
-
 > $git log -p
-
 > $git log -p --stat
-
 > $git log --stat -p
-
 > $git log -p -w [ignore changes to whitespace]
-
 > $q [quit]
-
 > $git commit -a
-
 > $git branch -a
-
 > $git checkout -b new-branch
-
 > $git checkout new-branch
-
 > $git fetch upstream
-
 > $git merge upstream/master
-
 > $git pull upstream master (git pull = git fletch + git merge)
-
 > $git rebase
-
 > $git rebase -i HEAD~3
-
 > $git log --online --graph --decorate --all
-
 > $git push -f
 
 
@@ -272,7 +243,7 @@ Completed:
 Started working within Linux virtual machine and following guidance from "Configuring Linux Web Servers" Udacity course [2]. 
 
 
-Every time you visit website your browser is requesting a number of files that located on a server. It's crucial to understand how servers work. Usually, that server is running Linux. This is why, I need to learn Linux (exploring the Lin ux file system, security permission system, firewall, software management). Linux is the most popular OS for web servers. Some estimates say 80% of public Internet servers are rumnning Linux. The Linux distribution RedHat is for large enterprise, corporate customers; Ubuntu is for ease of use on servers, desktops, laptops.
+When visiting website browser is requesting a number of files that located on a server. Usually, that server is running Linux. Linux is the most popular OS for web servers. Some estimates say 80% of public Internet servers are rumnning Linux. 
 
 Downloaded and installed VirtualBox. This is free software that will run the virtual machine.
 Downloaded and instaledl Vagrant. This is an command line utility that makes it easy to manage and access your virtual machines.
@@ -285,10 +256,9 @@ Coded using the following command:
 
 > $vagrant init ubuntu/trusty64
 > $vagrant up
+> $vagrant status
 
 I'm logged into a Linux virtual machine.
-
-> $vagrant status
 
 Current machine states:
 
