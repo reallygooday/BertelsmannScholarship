@@ -197,12 +197,12 @@ Completed:
 
 Coded using the following Git command:
 
-> $git init
-> $git clone
-> $git log
-> $git status
-> $git add
-> $git commit
+     > $git init
+     > $git clone
+     > $git log
+     > $git status
+     > $git add
+     > $git commit
 > $git diff
 > $git config --global core.editor "Atom -w" [changing editor]
 > $cd ~/course-git-blog-project 
