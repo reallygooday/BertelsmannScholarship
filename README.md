@@ -337,6 +337,47 @@ Important directories:
     > $vagrant destroy
 
 
+
+
+➜  / cd ~/Documents
+➜  Documents cd vm
+➜  vm vagrant init ubuntu/trusty64
+`Vagrantfile` already exists in this directory. Remove it before
+running `vagrant init`.
+➜  vm vagrant ssh
+Welcome to Ubuntu 14.04.6 LTS (GNU/Linux 3.13.0-170-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+
+  System information as of Fri Dec 13 09:34:18 UTC 2019
+
+  System load:  0.9               Processes:           81
+  Usage of /:   3.6% of 39.34GB   Users logged in:     0
+  Memory usage: 25%               IP address for eth0: 10.0.2.15
+  Swap usage:   0%
+
+  Graph this data and manage this system at:
+    https://landscape.canonical.com/
+
+UA Infrastructure Extended Security Maintenance (ESM) is not enabled.
+
+0 updates can be installed immediately.
+0 of these updates are security updates.
+
+Enable UA Infrastructure ESM to receive 64 additional security updates.
+See https://ubuntu.com/advantage or run: sudo ua status
+
+New release '16.04.6 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+vagrant@vagrant-ubuntu-trusty-64:~$ 
+
+
+
+
+
+
 ______
 ______
    
