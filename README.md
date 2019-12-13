@@ -270,6 +270,9 @@ Coded using the following command:
      > $vagrant init ubuntu/trusty64
      > $vagrant up
      > $vagrant status
+     
+![](/image/penguin.gif)
+
 
 I'm logged into a Linux virtual machine.
 
