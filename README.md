@@ -316,6 +316,12 @@ I'm logged into a Linux virtual machine.
     ➜  / 
 
 
+
+    ➜  / echo $PATH
+    usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+    ➜  / 
+
+
 Important directories:
 /etc <- configuration files;
 /var <- variables files;
