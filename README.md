@@ -256,8 +256,7 @@ Coded using the following command:
      > $cd vm
      > $ls -a (-a flag used to list all hiden files, on a Linux system, any file that begins with a dot is considered a hidden file)
      > $ls -al (-l flag lists results in long format; d is a directory, -dash is a file)
-     
-     
+         
     ➜  vm ls -al
     total 8
     drwxr-xr-x  4 angela  staff   128 13 Dec 09:32 .
@@ -265,7 +264,6 @@ Coded using the following command:
     drwxr-xr-x  4 angela  staff   128 13 Dec 09:32 .vagrant
     -rw-r--r--  1 angela  staff  3022 13 Dec 09:32 Vagrantfile
     ➜  vm 
-
 
      > $vagrant init ubuntu/trusty64
      > $vagrant up
@@ -315,8 +313,6 @@ I'm logged into a Linux virtual machine.
     lrwxr-xr-x@   1 root  admin    11 20 Oct 10:50 var -> private/var
     ➜  / 
 
-
-
     ➜  / echo $PATH
     usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
     ➜  / 
@@ -335,9 +331,6 @@ Important directories:
     > $vagrant ssh  
     > $vagrant halt
     > $vagrant destroy
-
-
-
 
     ➜  / cd ~/Documents
     ➜  Documents cd vm
@@ -368,7 +361,6 @@ Important directories:
 
     New release '16.04.6 LTS' available.
     Run 'do-release-upgrade' to upgrade to it.
-
    
     vagrant@vagrant-ubuntu-trusty-64:~$ sudo ls -al /home/ubuntu/.ssh
     total 8
