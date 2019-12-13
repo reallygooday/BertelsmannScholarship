@@ -283,6 +283,37 @@ I'm logged into a Linux virtual machine.
     simply run `vagrant up`.
 
 
+    ➜  vm cd /
+    ➜  / ls -al
+    total 9
+    drwxr-xr-x   23 root  admin   736 12 Dec 09:09 .
+    drwxr-xr-x   23 root  admin   736 12 Dec 09:09 ..
+    -rw-rw-r--    1 root  admin     0 24 Aug 23:20 .DS_Store
+    lrwxr-xr-x    1 root  admin    36 20 Oct 10:50 .VolumeIcon.icns -> System/Volumes/Data/.VolumeIcon.icns
+    ----------    1 root  admin     0 24 Aug 23:20 .file
+    drwx------  123 root  admin  3936 12 Dec 09:15 .fseventsd
+    drwxr-xr-x    2 root  wheel    64 24 Aug 23:20 .vol
+    drwxrwxr-x+  23 root  admin   736 13 Dec 09:11 Applications
+    drwxr-xr-x   70 root  wheel  2240 12 Dec 09:11 Library
+    drwxr-xr-x@   8 root  wheel   256 13 Oct 00:17 System
+    drwxr-xr-x    6 root  admin   192 13 Oct 00:15 Users
+    drwxr-xr-x    3 root  wheel    96 13 Dec 12:30 Volumes
+    drwxr-xr-x@  38 root  wheel  1216 12 Dec 09:08 bin
+    drwxr-xr-x    3 root  wheel    96 18 Sep 18:15 com.apple.TimeMachine.localsnapshots
+    drwxr-xr-x    2 root  wheel    64 24 Aug 23:24 cores
+    dr-xr-xr-x    3 root  wheel  4529 13 Dec 07:58 dev
+    lrwxr-xr-x@   1 root  admin    11 20 Oct 10:44 etc -> private/etc
+    lrwxr-xr-x    1 root  wheel    25 13 Dec 07:58 home -> /System/Volumes/Data/home
+    drwxr-xr-x    3 root  wheel    96 13 Dec 09:25 opt
+    drwxr-xr-x    6 root  wheel   192 12 Dec 09:10 private
+    drwxr-xr-x@  63 root  wheel  2016 12 Dec 09:08 sbin
+    lrwxr-xr-x@   1 root  admin    11 20 Oct 10:50 tmp -> private/tmp
+    drwxr-xr-x@  11 root  wheel   352 20 Oct 10:50 usr
+    lrwxr-xr-x@   1 root  admin    11 20 Oct 10:50 var -> private/var
+    ➜  / 
+
+
+
     > $vagrant suspend
     > $vagrant up
     > $vagrant ssh  
