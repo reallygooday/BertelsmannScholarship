@@ -249,10 +249,23 @@ Downloaded and installed VirtualBox. This is free software that will run the vir
 Downloaded and instaledl Vagrant. This is an command line utility that makes it easy to manage and access your virtual machines.
 Note: Currently (July 2018), the version of VirtualBox is 5.2. Newer versions do not yet support Vagrant.
 
+Working from command line only.
 Coded using the following command:
 
      > $cd ~/Documents
      > $cd vm
+     > $ls -a (-a flag used to list all hiden files, on a Linux system, any file that begins with a dot is considered a hidden file)
+     > $ls -al (-l flag lists results in long format; d is a directory, -dash is a file)
+     
+     
+    ➜  vm ls -al
+    total 8
+    drwxr-xr-x  4 angela  staff   128 13 Dec 09:32 .
+    drwx------@ 7 angela  staff   224 13 Dec 09:29 ..
+    drwxr-xr-x  4 angela  staff   128 13 Dec 09:32 .vagrant
+    -rw-r--r--  1 angela  staff  3022 13 Dec 09:32 Vagrantfile
+    ➜  vm 
+
 
      > $vagrant init ubuntu/trusty64
      > $vagrant up
