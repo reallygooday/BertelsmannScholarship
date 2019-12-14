@@ -96,8 +96,8 @@ The Part 2 "Cloud DevOps":
 | Lesson 16     | _Networking and Elasticity_                     | December 7,  2019         |
 | Lesson 17     | _Messaging and Containers_                      | December 7,  2019         |
 | Lesson 18     | _AWS Management_                                | December 7,  2019         |
-| Lesson 19     | _Getting Started with CloudForamtion_           |                           |
-| Lesson 20     | _Infrastructure Diagrams_                       |                           |
+| Lesson 19     | _Getting Started with CloudForamtion_           | December 12, 2019         |
+| Lesson 20     | _Infrastructure Diagrams_                       | December 12, 2019         |
 | Lesson 21     | _Networking Infrastructure_                     |                           |
 | Lesson 22     | _Servers and Security Groups_                   |                           |
 | Lesson 23     | _Storage and Databases_                         |                           |
@@ -398,7 +398,9 @@ _The list below summarizes the websites used in this Digital Diary._
 
 
 [6]. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-             
+
+
+[7]. [Ubuntu Packages Search](https://packages.ubuntu.com/)             
              
  ______   
  ______
