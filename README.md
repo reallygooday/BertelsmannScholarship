@@ -482,7 +482,7 @@ _____
 | SNS                    | _Simple Notification Service_                   |              
 | Redshift               | _Data Warehouse_                                |
 |                        |                                                 |
-|                        |                                                 |
+                                                                       
 
 _________
 _________
