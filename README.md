@@ -471,18 +471,18 @@ _____
 **STUDY NOTES**
 
 ***AWS Dictionary***
-
+|                        |                                                 |
 |                        |                                                 |                      
 | -----------------------|:-----------------------------------------------:| 
 | IAM                    | _Identity & Access Management_                  |                           
 | MFA                    | _Mlti-factor Authentification_                  |                           
 | Code Pipeline          | _Continuous Integration_                        |
 | Key Managemnt Service  | _Data Encryption_                               |
+| Cloud9                 | _Development Tool_                              |
+| SNS                    | _Simple Notification Service_                   |              
+| Redshift               | _Data Warehouse_                                |
 |                        |                                                 |
-
-
-
-
+|                        |                                                 |
 
 _________
 _________
