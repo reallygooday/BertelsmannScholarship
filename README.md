@@ -436,7 +436,7 @@ _____
 ***Registered for AWS event in London***
 
 
-<img align="right" width="300" height="200" src="/image/22January2019.png">
+<img align="left" width="400" height="300" src="/image/22January2019.png">
    
 
 _______
