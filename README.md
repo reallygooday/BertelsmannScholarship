@@ -472,13 +472,13 @@ _____
 
 ***AWS Dictionary***
 
-                                                                                                
-| ----------------------|:-----------------------------------------------:| 
-| IAM                   | _Identity & Access Management_                  |                           
-| MFA                   | _Mlti-factor Authentification_                  |                           
-|Code Pipeline          | _Continuous Integration_                        |
-|Key Managemnt Service  | _Data Encryption_                               |
-
+|                        |                                                 |                      
+| -----------------------|:-----------------------------------------------:| 
+| IAM                    | _Identity & Access Management_                  |                           
+| MFA                    | _Mlti-factor Authentification_                  |                           
+| Code Pipeline          | _Continuous Integration_                        |
+| Key Managemnt Service  | _Data Encryption_                               |
+|                        |                                                 |
 
 
 
