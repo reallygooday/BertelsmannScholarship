@@ -472,7 +472,7 @@ _____
 
 ***AWS Dictionary***
                                                                         
-                                                                                             
+|                        |                                                 |                   
 | -----------------------|:-----------------------------------------------:| 
 | IAM                    | _Identity & Access Management_                  |                           
 | MFA                    | _Mlti-factor Authentification_                  |                           
