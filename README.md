@@ -414,6 +414,19 @@ Important directories:
     default                   poweroff (virtualbox)
     The VM is powered off. To restart the VM, simply run `vagrant up`
       ➜  vm 
+
+_____
+_____
+
+***December 14, Saturday 2019***
+
+**STUDY NOTES**
+
+Attended London Study Group meet up at the British Library.
+
+Created AWS Free Tier account. AWS Free Tier is a great option to get access to AWS products for no cost. Anyone can use the product for free up to specified limits for one year from the date the account was created. This includes 750 hours of Amazon EC2 Linux t2.micro instance usage, 5 GB of Amazon S3 standard storage, 750 hours of Amazon RDS Single-AZ db.t2.micro Instances, one million AWS Lambda requests and you can build and host most Alexa skills for free. 
+
+
 ______
 ______
    
@@ -439,7 +452,11 @@ _The list below summarizes the websites used in this Digital Diary._
 [6]. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
-[7]. [Ubuntu Packages Search](https://packages.ubuntu.com/)             
+[7]. [Ubuntu Packages Search](https://packages.ubuntu.com/)  
+
+
+[8]. [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc)     
+
              
  ______   
  ______
