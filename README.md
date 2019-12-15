@@ -436,11 +436,11 @@ _____
 ***Registered for AWS event in London***
 
 
-<img align="left" width="400" height="300" src="/image/22January2019.png">
+<img align="left" width="800" height="400" src="/image/22January2019.png">
    
 
-_______
-______
+_________
+_________
    
  ## *BIBLIOGRAPHY, REFERENCES AND CREDITS*
    
