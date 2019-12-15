@@ -436,6 +436,32 @@ _____
 - [x] Registered for AWS event in London on Wednesday, 22 January, 2020, for Amazon Web Services (AWS) re:Invent re:Cap Public Sector Edition.
 
    
+- [x] Read an article on Quara "Is the Amazon Free Usage Tier really free? Are there any hidden charges?" by Alex Buzunov, Certified Amazon AWS Developer/Architect:
+
+"***AWS-S3***
+
+You’ll quickly run out of free tier if you use EC2 of S3 excessively.
+
+Intra region/zone data transfer - this is where you run out of quota very quickly.
+
+Do not upload large test files to S3 from your desktop - generate them on free EC2 instance and then upload. Same AZ transfer will incur no charges.
+
+Do not leave any publicly accessible S3 buckets.
+
+***DynamoDB***
+
+Do not create tables in DynamoDB with high read/write through-output (keep defaults). If you created high through-output test table delete it asap otherwise you’ll incur monthly charge.
+
+***EC2***
+
+If you attach EBS to your instance - even if you stop your instance later or terminate it still with be on your balance sheet.
+
+You’ll have to delete it using AWS console.
+
+UPDATE: If you deal with large datasets on daily basis - check out these ad-hoc tools for Oracle and AWS.
+
+oracletools/table-hunter-for-oracle - Win OS spooler
+pydemo/Snowpipe-For-SQLServer - Pipe your data from SQL Server to Snowflake."
 
 _________
 _________
