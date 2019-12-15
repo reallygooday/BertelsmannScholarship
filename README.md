@@ -438,30 +438,30 @@ _____
    
 - [x] Read an article on Quara "Is the Amazon Free Usage Tier really free? Are there any hidden charges?" by Alex Buzunov, Certified Amazon AWS Developer/Architect:
 
-"***AWS-S3***
+      "AWS-S3
 
-You’ll quickly run out of free tier if you use EC2 of S3 excessively.
+      You’ll quickly run out of free tier if you use EC2 of S3 excessively.
 
-Intra region/zone data transfer - this is where you run out of quota very quickly.
+      Intra region/zone data transfer - this is where you run out of quota very quickly.
 
-Do not upload large test files to S3 from your desktop - generate them on free EC2 instance and then upload. Same AZ transfer will incur no charges.
+      Do not upload large test files to S3 from your desktop - generate them on free EC2 instance and then upload. Same AZ transfer will incur no charges.
 
-Do not leave any publicly accessible S3 buckets.
+      Do not leave any publicly accessible S3 buckets.
 
-***DynamoDB***
+      DynamoDB
 
-Do not create tables in DynamoDB with high read/write through-output (keep defaults). If you created high through-output test table delete it asap otherwise you’ll incur monthly charge.
+      Do not create tables in DynamoDB with high read/write through-output (keep defaults). If you created high through-output test table delete it asap otherwise you’ll incur monthly charge.
 
-***EC2***
+      EC2
 
-If you attach EBS to your instance - even if you stop your instance later or terminate it still with be on your balance sheet.
+      If you attach EBS to your instance - even if you stop your instance later or terminate it still with be on your balance sheet.
 
-You’ll have to delete it using AWS console.
+      You’ll have to delete it using AWS console.
 
-UPDATE: If you deal with large datasets on daily basis - check out these ad-hoc tools for Oracle and AWS.
+      UPDATE: If you deal with large datasets on daily basis - check out these ad-hoc tools for Oracle and AWS.
 
-oracletools/table-hunter-for-oracle - Win OS spooler
-pydemo/Snowpipe-For-SQLServer - Pipe your data from SQL Server to Snowflake."
+      oracletools/table-hunter-for-oracle - Win OS spooler
+       pydemo/Snowpipe-For-SQLServer - Pipe your data from SQL Server to Snowflake."
 
 _________
 _________
@@ -493,7 +493,9 @@ _The list below summarizes the websites used in this Digital Diary._
 
 [8]. [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc)     
 
-             
+
+[9]. [Is the Amazon Free Usage Tier really free? Are there any hidden charges?](https://www.quora.com/Is-the-Amazon-Free-Usage-Tier-really-free-Are-there-any-hidden-charges)
+
  ______   
  ______
     
