@@ -430,11 +430,12 @@ Attended London Study Group meet up at the British Library, discussed an AWS pro
 ***Registered for AWS event in London***
 
 
-<img align="right" width="400" height="200" src="/image/22Januaary2019.png">
+ <img align="right" width="400" height="200" src="/image/22January2019.png">
 
 
-***Created AWS Free Tier account.***
-_AWS Free Tier is a great option to get access to AWS products for no cost. Anyone can use the product for free up to specified limits for one year from the date the account was created. This includes 750 hours of Amazon EC2 Linux t2.micro instance usage, 5 GB of Amazon S3 standard storage, 750 hours of Amazon RDS Single-AZ db.t2.micro Instances, one million AWS Lambda requests and you can build and host most Alexa skills for free.
+    ***Created AWS Free Tier account.***
+    
+    _AWS Free Tier is a great option to get access to AWS products for no cost. Anyone can use the product for free up to specified limits for one year from the date the account was created. This includes 750 hours of Amazon EC2 Linux t2.micro instance usage, 5 GB of Amazon S3 standard storage, 750 hours of Amazon RDS Single-AZ db.t2.micro Instances, one million AWS Lambda requests and you can build and host most Alexa skills for free.
 
 _______
 ______
