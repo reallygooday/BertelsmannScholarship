@@ -463,6 +463,29 @@ _____
       oracletools/table-hunter-for-oracle - Win OS spooler
        pydemo/Snowpipe-For-SQLServer - Pipe your data from SQL Server to Snowflake."
 
+_____
+_____
+
+***December 15, Sunday 2019***
+
+**STUDY NOTES**
+
+AWS dictionary:
+
+|               |                                                 |                           |
+| ------------- |:-----------------------------------------------:| -------------------------:|
+| IAM           | _Identity & Access Management_                  |                           |
+| MFA           | _Mlti-factor Authentification_                  |                           |
+
+
+
+
+    IAM Identity & Access Management
+    MFA Multi-factor Authentification
+
+
+
+
 _________
 _________
    
