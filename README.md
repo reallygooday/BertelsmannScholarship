@@ -433,10 +433,8 @@ _____
 ![](/image/library_gif.gif)
 
 
-***Registered for AWS event in London***
+***Registered for AWS event in London*** on Wednesday, 22 January, 2020, for Amazon Web Services (AWS) re:Invent re:Cap Public Sector Edition.
 
-
-<img align="left" width="800" height="400" src="/image/22January2019.png">
    
 
 _________
