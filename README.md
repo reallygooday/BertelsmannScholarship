@@ -380,7 +380,10 @@ Important directories:
     >$ sudo apt-get autoremove
     >$ sudo apt-get install finger
     
-    ➜  vm finger vagrant
+    ➜  vm finger 
+    Login    Name                 TTY  Idle  Login  Time   Office  Phone
+    angela   Andzelika Balysevie *con 13:24  Sat    10:59
+    angela   Andzelika Balysevien s00        Sat    11:39   
     
     ➜  vm cat /etc/passwd
     ##
