@@ -319,10 +319,15 @@ I'm logged into a Linux virtual machine.
 
 
 Important directories:
+
 /etc <- configuration files;
+
 /var <- variables files;
+
 /bin <-executable files;
+
 /sbin <- used by the root user for system administration, system management aps;
+
 /lib <-libraries for support
 
 
