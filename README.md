@@ -423,17 +423,17 @@ _____
 **STUDY NOTES**
 
 
- -[x] Created AWS Free Tier account.
+ - [x] Created AWS Free Tier account.
     
     _AWS Free Tier is a great option to get access to AWS products for no cost. Anyone can use the product for free up to specified limits for one year from the date the account was created. This includes 750 hours of Amazon EC2 Linux t2.micro instance usage, 5 GB of Amazon S3 standard storage, 750 hours of Amazon RDS Single-AZ db.t2.micro Instances, one million AWS Lambda requests and you can build and host most Alexa skills for free.
 
 
--[x] Attended London Study Group meet up at the British Library, discussed an AWS project with Mohamed Hassona and Enrico Mengotti.
+- [x] Attended London Study Group meet up at the British Library, discussed an AWS project with Mohamed Hassona and Enrico Mengotti.
 
 ![](/image/library_gif.gif)
 
 
--[x] Registered for AWS event in London on Wednesday, 22 January, 2020, for Amazon Web Services (AWS) re:Invent re:Cap Public Sector Edition.
+- [x] Registered for AWS event in London on Wednesday, 22 January, 2020, for Amazon Web Services (AWS) re:Invent re:Cap Public Sector Edition.
 
    
 
