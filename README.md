@@ -436,7 +436,7 @@ _____
 - [x] Registered for AWS event in London on Wednesday, 22 January, 2020, for Amazon Web Services (AWS) re:Invent re:Cap Public Sector Edition.
 
    
-- [x] Read an article on Quara "Is the Amazon Free Usage Tier really free? Are there any hidden charges?" by Alex Buzunov, Certified Amazon AWS Developer/Architect:
+- [x] Read an article on Quora [9]:
 
       "AWS-S3
 
