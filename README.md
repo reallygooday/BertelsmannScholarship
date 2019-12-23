@@ -484,7 +484,12 @@ _____
 |                        |                                                 |
                                                                        
 
-_________
+
+
+
+
+
+![](/image/cp.gif)_________
 _________
    
  ## *BIBLIOGRAPHY, REFERENCES AND CREDITS*
