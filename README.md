@@ -429,9 +429,10 @@ _____
 
 - [x] Attended London Study Group meet up at the British Library, discussed an AWS project with Mohamed Hassona and Enrico Mengotti.
 
+_______
+_______
 
-
-        <img align="left" width="400" height="300" src="/image/3.jpg">
+   <img align="left" width="400" height="300" src="/image/3.jpg">
 
 
 
