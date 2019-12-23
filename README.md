@@ -431,7 +431,7 @@ _____
 
 
 
-<img align="left" width="400" height="300" src="/image/3.jpg">
+        <img align="left" width="400" height="300" src="/image/3.jpg">
 
 
 
