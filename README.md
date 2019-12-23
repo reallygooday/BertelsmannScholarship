@@ -430,9 +430,9 @@ _____
 
 - [x] Attended London Study Group meet up at the British Library, discussed an AWS project with Mohamed Hassona and Enrico Mengotti.
 
-![](/image/library_gif.gif)
 
-<img align="right" width="400" height="400" src="/image/3.jpg">
+
+<img align="right" width="400" height="300" src="/image/3.jpg">
 
 - [x] Registered for AWS event in London on Wednesday, 22 January, 2020, for Amazon Web Services (AWS) re:Invent re:Cap Public Sector Edition.
 
