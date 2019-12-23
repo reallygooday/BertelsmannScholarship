@@ -1,5 +1,4 @@
 
-<img align="right" width="300" height="200" src="/image/study.png">
 
 
    Start Date: November 20, 2019
