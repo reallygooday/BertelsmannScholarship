@@ -38,15 +38,6 @@ ______
 ______
 ______
 
-      - I'm extremely lucky and honored to have received an acceptance into the Udacity Technology Scholarship powered by Bertelsmann. I'm very thankful for the opportunity I have been given.
-______
-______
-
-      Bertelsmann is the German media and services multinational corporation. Worldwide the company has almost 350 locations. It was founded as a publishing house by Carl Bertelsmann in 1835._
-______
-
-
-_More than 45,000 people from all over the world applied for the Scholarship. 15,000 recipients are participating in the First Phase. Top passionate, motivated and resilient scholars from the initial Challenge will earn one of 1,600 full scholarships to the Nanodegree program. The announcement of round two scholarship recipients will be on March 18, 2020._
 
 _My name is Angela, and I am a novice in Cloud Computing. I have been selected for the first round of the Udacity technology scholarship program powered by Bertelsmann. The first round gives a chance to qualify for a full 6-month Scholarship. In the First Phase I work to complete Udacity Foundational course in the field of Cloud. I don't have access to LINUX distribution, but I use the default command line, bash version 3.2.57(1)-release in OS X on Apple system, MacBook Pro with macOS Catalina Version 10.15.1._
 
