@@ -43,7 +43,7 @@ _My name is Angela, and I am a novice in Cloud Computing. I have been selected f
 
 _***A little about me.*** Passionate about helping people, I started nursing at the edge of 18. I studied the various branches of medical science at the Klaipeda Medical School in Lithuania and was hired immediately as the youngest Oncology Nurse. After helping cancer patients for 10 years in Lithuania, I decided to take a leap of faith and moved to London on a student visa. After 19 years in the UK, I built a new technical skill set._
 
-_I work as a corporate receptionist. I am a part of the team for Vodafone Data Centre and am involved in many other companies. My interest in computing began while studying games programming at the University of Westminster and has grown since then. I have maintained a fascination with technology from the start. My favorite application to date has been creating style transfer by utilizing Deep Learning written in Python. I plan to contunue persuing my interest in growing technologies._
+_I work as a corporate receptionist, and I am involved in many companies. My interest in computing began while studying games programming at the University of Westminster and has grown since then. I have maintained a fascination with technology from the start. My favorite application to date has been creating style transfer by utilizing Deep Learning written in Python. I plan to contunue persuing my interest in growing technologies._
 
 ![](/image/cloud.gif)
 
